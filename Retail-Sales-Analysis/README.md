@@ -62,22 +62,22 @@ Performed in **R**:
 </p>
 
 <p align="center">
-  <img src="screenshots/revenue_by_weekday.png" width="70%">
+  <img src="screenshots/revenue_by_day_of_the_week.png" width="70%">
   <br><em>Revenue by Day of the Week</em>
 </p>
 
 <p align="center">
-  <img src="screenshots/revenue_by_hour.png" width="70%">
+  <img src="screenshots/revenue_by_hour_of_the_day.png" width="70%">
   <br><em>Revenue by Hour of the Day</em>
 </p>
 
 <p align="center">
-  <img src="screenshots/top_products.png" width="70%">
+  <img src="screenshots/top_10_products_revenue.png" width="70%">
   <br><em>Top 10 Products by Revenue</em>
 </p>
 
 <p align="center">
-  <img src="screenshots/customer_spending.png" width="70%">
+  <img src="screenshots/customers_spending_analysis.png" width="70%">
   <br><em>Customer Spending Segments</em>
 </p>
 
