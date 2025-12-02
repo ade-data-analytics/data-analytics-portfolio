@@ -57,27 +57,27 @@ Performed in **R**:
 # 📸 Dashboard Visuals  
 
 <p align="center">
-  <img src="screenshots/daily_revenue_trend.png" width="70%">
+  <img src="screenshots/daily_revenue_trend.png" width="60%">
   <br><em>Daily Revenue Trend</em>
 </p>
 
 <p align="center">
-  <img src="screenshots/revenue_by_day_of_the_week.png" width="70%">
+  <img src="screenshots/revenue_by_day_of_the_week.png" width="60%">
   <br><em>Revenue by Day of the Week</em>
 </p>
 
 <p align="center">
-  <img src="screenshots/revenue_by_hour_of_the_day.png" width="70%">
+  <img src="screenshots/revenue_by_hour_of_the_day.png" width="60%">
   <br><em>Revenue by Hour of the Day</em>
 </p>
 
 <p align="center">
-  <img src="screenshots/top_10_products_revenue.png" width="70%">
+  <img src="screenshots/top_10_products_revenue.png" width="50%">
   <br><em>Top 10 Products by Revenue</em>
 </p>
 
 <p align="center">
-  <img src="screenshots/customers_spending_analysis.png" width="70%">
+  <img src="screenshots/customers_spending_analysis.png" width="60%">
   <br><em>Customer Spending Segments</em>
 </p>
 
@@ -159,9 +159,6 @@ Retail-Sales-Analysis/
 ├── revenue_by_hour.png
 ├── top_products.png
 └── customer_spending.png
-
-yaml
-Copy code
 
 ---
 
