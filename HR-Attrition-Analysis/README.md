@@ -144,3 +144,33 @@ Re-evaluate compensation bands and bonuses.
 
 ## 📁 Folder Structure  
 
+HR-Attrition-Analysis/
+│
+├── cleaned_hr.csv
+├── HR_Attrition_Dashboard.pdf
+├── README.md
+└── screenshots/
+├── overall_attrition_rate.png
+├── attrition_count_by_age.png
+├── attrition_by_years_at_company.png
+├── work_life_balance_on_attrition.png
+├── income_distribution_of_employee_who_left.png
+└── attrition_count_by_job_role.png
+
+
+---
+
+## 📝 How to Reproduce  
+1. Load the dataset in R  
+2. Run preprocessing script (shown above)  
+3. Export `cleaned_hr.csv`  
+4. Build visualizations in Tableau  
+5. Use dashboard PDF or screenshots for analysis  
+
+---
+
+## 🎯 Conclusion  
+This project provides a clear view of employee attrition patterns and highlights the areas HR must focus on to reduce turnover.  
+It demonstrates strong skills in **data cleaning, visualization, dashboarding, and generating insights** — key competencies for a Data Analyst.
+
+---
